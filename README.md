@@ -1,8 +1,10 @@
 # Excel-Based Sales Analysis Dashboard for Vrinda Store
 ## Project Objective
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+
 ## Dataset used
-- <a href="https://github.com/Student-WorkBench/Data-Analysis-Dashboard/commit/3224ed890a6be3e83dc9662c86064456c9d53c8f">Dataset</a>
+- <a href="https://github.com/Student-WorkBench/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx">Dataset</a>
+
 ## Questions (KPIs)
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
@@ -13,6 +15,13 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
+- Dashboard Interaction <a href="https://github.com/Student-WorkBench/Data-Analysis-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-- Dashboard Interaction
-- <a href="https://github.com/Student-WorkBench/Data-Analysis-Dashboard/commit/3224ed890a6be3e83dc9662c86064456c9d53c8f">View Dashboard</a>
+  
+
+
